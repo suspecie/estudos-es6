@@ -20,6 +20,9 @@ Pequenas dicas de diferenças entre ES5 para o ES6:
     - Forma abreviada de escrever funções.
     - A palavra functions é substituída por =>
     - Do lado esquerdo será colocado os parametros, se nao tiver parametro devemos colocar () => , se tiver mais de um devemos colocá-los dentro de (x, y) => , se tiver um só pode colocar sem parenteses.
+* class
+    - Permite a implementação de classes dentro dos nossos scripts.
+    - Fica mais facil utilizar orientação a objetos.
     
 
 ## Executando o código
