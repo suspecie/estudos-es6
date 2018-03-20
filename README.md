@@ -23,7 +23,9 @@ Pequenas dicas de diferenças entre ES5 para o ES6:
 * class
     - Permite a implementação de classes dentro dos nossos scripts.
     - Fica mais facil utilizar orientação a objetos.
-    
+    - As classes hoje permitem Herança, Super Chamadas, Métodos estáticos, Instâncias e Construtores.
+* public e private
+    - No ES6 não é possível utilizar os modificadores de visibilidade, essa inferência pode ser realizada utilizando o TypeScript.
 
 ## Executando o código
 `` node nomedoarquivo ``
