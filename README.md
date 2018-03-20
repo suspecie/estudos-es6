@@ -29,6 +29,16 @@ Pequenas dicas de diferenças entre ES5 para o ES6:
 * import e export
     - export : transforma um determinado bloco de codigos em um módulo.
     - import: após o export vc consegue dar um import dentro da aplicação.
+* extends (herança)
+    - é a capacidade que uma classe possui de herdar métodos e atributos de outra classe.
+    Em um exemplo prático, podemos criar a classe imóvel.
+    A classe imóvel contém os atributos quartos, salas, cozinha.
+    A classe apartamento, herda os mesmos atributos.
+    E já a classe casa, herda os mesmos atributos porém tem o telhado de diferença.
+    O mesmo acontece com os métodos.
+
+
+
 
 ## Executando o código
 `` node nomedoarquivo ``
