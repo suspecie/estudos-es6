@@ -26,6 +26,9 @@ Pequenas dicas de diferenças entre ES5 para o ES6:
     - As classes hoje permitem Herança, Super Chamadas, Métodos estáticos, Instâncias e Construtores.
 * public e private
     - No ES6 não é possível utilizar os modificadores de visibilidade, essa inferência pode ser realizada utilizando o TypeScript.
+* import e export
+    - export : transforma um determinado bloco de codigos em um módulo.
+    - import: após o export vc consegue dar um import dentro da aplicação.
 
 ## Executando o código
 `` node nomedoarquivo ``
