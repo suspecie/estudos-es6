@@ -1,5 +1,10 @@
 # estudos-es6
-Pequenas dicas de diferenças entre ES5 para o ES6:
+Pequenas dicas de diferenças entre ES5 para o ES6.
+
+Curso: Estudos do curso Desenvolvimento Web com ES5, TypeScript e Angular4 da Udemy
+Créditos: Jorge Sant Ana
+https://www.udemy.com/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-4/
+
 
 * const
     - Declaração de variável
@@ -36,9 +41,6 @@ Pequenas dicas de diferenças entre ES5 para o ES6:
     A classe apartamento, herda os mesmos atributos.
     E já a classe casa, herda os mesmos atributos porém tem o telhado de diferença.
     O mesmo acontece com os métodos.
-
-
-
 
 ## Executando o código
 `` node nomedoarquivo ``
