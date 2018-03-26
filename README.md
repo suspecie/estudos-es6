@@ -41,6 +41,10 @@ https://www.udemy.com/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-
     A classe apartamento, herda os mesmos atributos.
     E já a classe casa, herda os mesmos atributos porém tem o telhado de diferença.
     O mesmo acontece com os métodos.
+* constructor(){}
+    - é possível declararmos os atributos diretamente no construtor.
+    - Também é possível declarar um valor default para o atributo declarado no construtor.
+    - Assim se o parametro for omitido o método recebe o que foi definido na assinatura dele.
 
 ## Executando o código
 `` node nomedoarquivo ``
